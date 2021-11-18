@@ -5,6 +5,6 @@
   
 <img src="https://user-images.githubusercontent.com/89675036/139632341-fa1f7b7b-11ff-407b-ae02-444b295d19f4.png" width="250px" align="right">
 </p>
-<br><br>
+
 <p>By <a href="https://malithgimhana.tk/">Malith Gimhana </a></p>
 
